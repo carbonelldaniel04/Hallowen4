@@ -1,0 +1,6 @@
+{
+  "name": "Halloween Disfraces",
+  "description": "Tienda de venta y alquiler de disfraces para niños y adultos con reservas online y calendario de disponibilidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
